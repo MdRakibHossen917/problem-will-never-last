@@ -1,0 +1,36 @@
+*{
+    margin: 20px;
+}
+
+.This{
+    text-align: center;
+    color: darkred;
+    
+}
+.three{
+font-size: larger;
+ border: 20px;
+    border-radius: 10px 10px;
+}
+div{
+    color: darkgoldenrod;
+}
+li{
+    color: darkmagenta;
+    font-size: larger;
+
+}
+.Lorem{
+    color: cornflowerblue;
+   
+    background-image: url('../picture/GrandSuperman.jpg');
+    background-repeat: no-repeat;
+    background-size: 400px;
+    
+}
+.Submit{
+
+    color: red;
+    background-color: aquamarine;
+    
+}

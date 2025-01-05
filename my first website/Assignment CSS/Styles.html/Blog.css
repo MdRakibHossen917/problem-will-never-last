@@ -1,0 +1,58 @@
+.header{
+    height: 400px;          
+    /* color: rgb(248, 140, 8);
+     background-color: rgb(9, 88, 88);  */
+     /* background-image: url('GrandChair.jpg'); */
+     /* background-image: url(../picture/GrandSuperman.jpg); */
+     background-image: url(../picture/Grandmother.jpg);
+
+     /* background-repeat: no-repeat; */
+     /* background-repeat: repeat-x; */
+     /* background-repeat: repeat-y; */
+     /* background-size: cover; */
+     /* background-size: contain; */
+     /* background-size: 700px; */
+
+   
+}
+
+    
+.dolor{
+
+    border: 2px solid pink;
+    height: 60px;
+    /* display: block; */
+    display: inline-block;
+}
+    
+    
+h3{
+    color: chartreuse;
+    font-size: 30px;
+    text-decoration: overline chocolate;
+}
+
+.blog{
+
+     margin: 20px;
+     padding-left: 20px;
+     box-shadow: 10px 10px 10px rgb(97, 97, 227);
+    font-family: 'Courier New', Courier, monospace;
+    border: 10px solid purple;
+
+}
+
+.consectetur{
+    color: red;
+    border: 3px solid;
+    margin: 20px; 
+    /* display: block; */
+}
+
+li{
+    display: inline;
+}
+.Second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
