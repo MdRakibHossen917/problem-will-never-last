@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>event Handler</title>
+</head>
+<body>
+    <h1 id="page-title">Event Handler </h1>
+    <button id="btn-update-title">Update Title</button>
+    <p id="user-info">No user</p>
+    <button id="btn-login">Login</button>
+<br>
+<br>
+<br>
+<br>
+    <!--Handel input text-->
+    <p id="name">No Name</p>
+    <input id="input-name" placeholder="Your Name" type="text">
+    <button id="name-update">Update</button>
+
+<script>
+    //set event listener
+    document.getElementById('name-update')
+    .addEventListener('click',function(){
+       console.log('update button clicked');
+
+       //step 2. get the text from the input filed
+       const inputName = document.getElementById('input-name');
+       console.log(inputName)
+       const name = inputName.value;
+       console.log('name',name);
+       //step 3. Set the name
+       const nameP = document.getElementById('name');
+       nameP.innerText = (name);
+     
+       
+    })
+
+
+  
+   
+</script>
+
+    <script src="js/eventHandler.js"></script>
+    
+</body>
+</html>
