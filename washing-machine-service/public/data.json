@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Washing Machine Repair",
+      "image": "https://i.ibb.co.com/YFsBHz1Z/Washing-Machine-Repair.jpg",
+      "description": "Fast and reliable washing machine repair services for all major brands."
+    },
+    {
+      "id": 2,
+      "name": "Refrigerator Repair",
+      "image": "https://i.ibb.co.com/bM0FhSDN/Refrigerator-Repair.jpg",
+      "description": "Fix cooling issues, compressor problems, or strange noises in your fridge."
+    },
+    {
+      "id": 3,
+      "name": "Microwave Oven Repair",
+      "image": "https://i.ibb.co.com/v4yp30p7/Microwave-Oven-Repair.jpg",
+      "description": "Get your microwave working again with our quick and affordable repair."
+    },
+    {
+      "id": 4,
+      "name": "Air Conditioner Repair",
+      "image": "https://i.ibb.co.com/Gqyx4d6/Air-Conditioner-Repair.jpg",
+      "description": "Expert AC repair services to keep your home cool and comfortable."
+    },
+    {
+      "id": 5,
+      "name": "Dishwasher Repair",
+      "image": "https://i.ibb.co.com/sdgC7bhw/Dishwasher-Repair.jpg",
+      "description": "We fix water leaks, poor cleaning, and noisy dishwasher issues."
+    },
+    {
+      "id": 6,
+      "name": "Water Purifier Repair",
+      "image": "https://i.ibb.co.com/nSDpdG3/water-purifier.jpg",
+      "description": "Ensure safe drinking water with our reliable purifier repair services."
+    },
+    {
+      "id": 7,
+      "name": "Geyser Repair",
+      "image": "https://i.ibb.co.com/Ng8nxZ0q/Geyser-Repair.jpg",
+      "description": "Repair heating issues and leakage problems in your water heater."
+    },
+    {
+      "id": 8,
+      "name": "TV Repair",
+      "image": "https://i.ibb.co.com/qLMbTJL6/TV-Repair.jpg",
+      "description": "LCD, LED, or Smart TV issues? Our technicians can fix them all."
+    },
+    {
+      "id": 9,
+      "name": "Vacuum Cleaner Repair",
+      "image": "https://i.ibb.co.com/84PbRx7p/Vacuum-Cleaner-Repair.jpg",
+      "description": "Bring your vacuum back to full suction power with our expert repair."
+    }
+     
+  ]
+  
